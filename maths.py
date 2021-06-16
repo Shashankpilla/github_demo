@@ -16,3 +16,7 @@ def divide(x,y):
     return divide_by_zer0
     
     else:
+    return x/y
+    
+def square(x):
+return x*x
