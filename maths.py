@@ -12,4 +12,7 @@ def multiply(x,y):
     
     #divide
 def divide(x,y):
-    return x/y
+    if y==0:
+    return divide_by_zer0
+    
+    else:
